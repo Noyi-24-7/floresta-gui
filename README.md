@@ -22,7 +22,7 @@ It’s meant to keep UI work **separate** from the core node implementation repo
 - Each screen gets its own issue for scoped feedback.
 
 Start here:
-- **Design Index (Umbrella Issue):** #<ADD_UMBRELLA_ISSUE_NUMBER_AFTER_CREATION>
+- **Design Index (Umbrella Issue):** [ADD_UMBRELLA_ISSUE_NUMBER_AFTER_CREATION](https://github.com/Noyi-24-7/floresta-gui/issues/1)
 
 ## Figma
 All frame links are tracked here:
